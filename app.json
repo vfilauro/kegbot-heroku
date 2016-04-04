@@ -7,7 +7,7 @@
   "keywords": ["kegbot", "python", "django"],
   "success_url": "/",
   "addons": [
-    "newrelic:stark",
+    "newrelic",
     "memcachier",
     "heroku-postgresql",
     "redistogo",
